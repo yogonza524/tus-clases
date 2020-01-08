@@ -1,0 +1,2 @@
+# Composition
+In computer science, object composition is a way to combine objects or data types into more complex ones. Compositions relate to, but are not the same as, data structures, and common ones are the tagged union, set, sequence, and various graph structures, as well as the object used in object-oriented programming
